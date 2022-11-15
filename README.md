@@ -1,8 +1,14 @@
 # Bikesharing
 
 Overview
+
 Create data visualization for bike trip analysis to convince investors that a bike-sharing program in Des Moines would be a solid investment. 
+
 Results
+
+Click link for Tableau Story 
+https://public.tableau.com/app/profile/timeka8098/viz/NYCCitibikeChallenge_16685042106640/NYCCitibike?publish=yes
+
 Visualization – Checkout Times for Users
 ![Checkout Times Users](https://user-images.githubusercontent.com/111043588/201874314-a5c5cb6f-915d-4969-a815-0c105241acfc.PNG) 
 •	line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour
